@@ -81,3 +81,4 @@ You need [Apache Maven](http://maven.apache.org/) to build the project:
 ```shell
 mvn clean install
 ```
+.
